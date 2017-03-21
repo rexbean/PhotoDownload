@@ -1,0 +1,17 @@
+I:\lcj\PhotoDownload\PhotoDownload\bin\Debug\PhotoDownload.exe
+I:\lcj\PhotoDownload\PhotoDownload\bin\Debug\PhotoDownload.pdb
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.Properties.Resources.resources
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.exe
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.pdb
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.LoginForm.resources
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.GetIdForm.resources
+I:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.DownloadPhoto.resources
+K:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.exe
+K:\lcj\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.pdb
+D:\inspiration\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.exe
+D:\inspiration\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.pdb
+G:\备份数据\inspiration\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.exe
+G:\备份数据\inspiration\PhotoDownload\PhotoDownload\obj\x86\Debug\PhotoDownload.pdb
